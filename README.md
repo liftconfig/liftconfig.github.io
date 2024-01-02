@@ -1,1 +1,0 @@
-liftconfig blog
