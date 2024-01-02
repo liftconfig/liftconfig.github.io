@@ -1,1 +1,1 @@
-test
+liftconfig blog
