@@ -7,13 +7,16 @@ theme:
     - content.code.annotation
     - content.code.copy
     - content.code.select
+    # - content.tabs.link
     - search.suggest
     - search.highlight
-   # - content.tabs.link
-   # - navigation.tabs
-   # - navigation.sections
-   # - navigation.top
-   # - toc.integrate
+    # - navigation.expand
+    - navigation.path
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    # - toc.integrate
+    - toc.follow
   language: en
   palette:
     - media: "(prefers-color-scheme)"
