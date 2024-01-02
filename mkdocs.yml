@@ -1,33 +1,60 @@
 site_name: liftconfig
+site_author: Tim Howlinson
+
 theme:
   name: material
   features:
-    - navigation.tabs
-    - navigation.sections
-    - toc.integrate
-    - navigation.top
-    - search.suggest
-    - search.highlight
-    - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    - content.code.select
+    - search.suggest
+    - search.highlight
+   # - content.tabs.link
+   # - navigation.tabs
+   # - navigation.sections
+   # - navigation.top
+   # - toc.integrate
   language: en
   palette:
-    - scheme: default
+    - media: "(prefers-color-scheme)"
       toggle:
-        icon: material/toggle-switch-off-outline 
-        name: Switch to dark mode
-      primary: teal
-      accent: purple 
-    - scheme: slate 
+        icon: material/link
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
       toggle:
         icon: material/toggle-switch
-        name: Switch to light mode    
-      primary: teal
-      accent: lime
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: blue
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to system preference
+  icon:
+    logo: simple/googlecontaineroptimizedos
 
-#plugins:
-#  - social
+nav:
+  - Network:
+    - Fortinet: network/fortinet.md
+    - Cisco IOS-XR: network/iosxr.md
+  - Blog:
+    - blog/index.md
+  - About: about.md
+
+plugins:
+  - search:
+      lang: en
+  - blog:
+      categories: true 
+      categories_name: Categories
+      categories_allowed:
+        - Networking
+        - Setup
+        - Public Cloud
 
 extra:
   social:
@@ -50,7 +77,10 @@ markdown_extensions:
   - pymdownx.mark
   - attr_list
   - pymdownx.emoji:
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+  - toc:
+      permalink: true
 
 copyright: |
-  &copy; 2023 <a href="https://github.com/liftconfig"  target="_blank" rel="noopener">Tim Howlinson</a>
+  &copy; 2024 <a href="https://github.com/liftconfig"  target="_blank" rel="noopener">liftconfig</a>
