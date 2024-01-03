@@ -1,38 +1,26 @@
 ---
-draft: false 
+draft: true 
 date: 2024-01-03 
 categories:
-   - Setup
-   - Public Cloud
+   - networking
+tags: 
+   - networking
+   - coding
 ---
 
-# Homepage
+# Hello World
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+1st blog post!
 
-## Code Annotation Examples
-
-### Codeblocks
-
-Some `code` goes here. :heart: :smile:
-
-### Plain codeblock
-
-A plain codeblock:
-
-```
-Some code here
-def myfunction()
-//some comment
-```
-
-### Python code
+<!-- more -->
+## Python codeblock
 
 Some `py` code
 
 ```py title="python code.py" linenums="1" hl_lines="1 3"
-import tensorflow as tf
-//a comment
-def whatever()
+#print hello world!
+def helloworld(x, y):
+    print(x, y,)
+
+helloworld("Hello", "World")
 ```
-:smile:

@@ -4,12 +4,6 @@ hide:
   - toc
 ---
 
-# liftconfig
+# liftConfig
 
-- test text
-
-<p align="center">
-  <img src="assets/images/timh-bw.png" />
-</p>
-
-[:fontawesome-solid-envelope:](mailto:tim.howlinson@gmail.com)
+A Network Engineer's journey into automation, cloud, and coding.

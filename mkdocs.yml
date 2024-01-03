@@ -37,12 +37,15 @@ theme:
     logo: simple/googlecontaineroptimizedos
 
 nav:
-  - Network:
-    - Cisco IOS-XR: network/iosxr.md
-    - Fortinet: 
-      - Fortios: network/fortinet/fortinet.md
   - Blog:
     - blog/index.md
+  - Reference:
+    - Networking:
+      - Cisco IOS-XR: networking/iosxr.md
+      - FortiOS: networking/fortinet.md
+      - VMware NSX-T: networking/nsxt.md
+    - IaC:
+      - Terraform Associate: iac/terraform-associate.md
   - About: 
     - About Me: about/about-me.md
     - Office Setup: about/office-setup.md
@@ -57,9 +60,10 @@ plugins:
       categories: true 
       categories_name: Categories
       categories_allowed:
-        - Networking
-        - Setup
-        - Public Cloud
+        - networking
+        - cloud
+        - coding
+        - IaC
   - rss:
       match_path: blog/posts/.* 
       date_from_meta:
