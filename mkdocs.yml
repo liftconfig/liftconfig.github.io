@@ -1,4 +1,4 @@
-site_name: liftconfig
+site_name: liftConfig
 site_author: Tim Howlinson
 
 theme:
@@ -79,6 +79,9 @@ extra:
     - icon: fontawesome/solid/dumbbell
       link: https://www.openpowerlifting.org/u/timhowlinson
   generator: false
+  analytics:
+    provider: google
+    property: G-C3VKY555NW
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -100,4 +103,9 @@ markdown_extensions:
       permalink: true
 
 copyright: |
-  &copy; 2024 <a href="https://github.com/liftconfig"  target="_blank" rel="noopener">liftconfig</a>
+  &copy; 2024 liftConfig
+
+
+
+
+
