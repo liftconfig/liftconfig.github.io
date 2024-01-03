@@ -65,13 +65,13 @@ plugins:
         - cloud
         - coding
         - IaC
-  - rss:
-      match_path: blog/posts/.* 
-      date_from_meta:
-        as_creation: date
-      categories:
-        - categories
-        - tags 
+#  - rss:
+#      match_path: blog/posts/.* 
+#      date_from_meta:
+#        as_creation: date
+#      categories:
+#        - categories
+#        - tags 
 
 extra:
   social:
