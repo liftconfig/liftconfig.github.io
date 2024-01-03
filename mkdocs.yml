@@ -1,5 +1,6 @@
 site_name: liftConfig
 site_author: Tim Howlinson
+site_url: https://liftconfig.github.io
 
 theme:
   name: material
