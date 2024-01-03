@@ -10,7 +10,7 @@ theme:
     # - content.tabs.link
     - search.suggest
     - search.highlight
-    # - navigation.expand
+    - navigation.expand
     - navigation.path
     - navigation.sections
     - navigation.tabs
@@ -38,15 +38,21 @@ theme:
 
 nav:
   - Network:
-    - Fortinet: network/fortinet.md
     - Cisco IOS-XR: network/iosxr.md
+    - Fortinet: 
+      - Fortios: network/fortinet/fortinet.md
   - Blog:
     - blog/index.md
-  - About: about.md
+  - About: 
+    - About Me: about/about-me.md
+    - Office Setup: about/office-setup.md
+  - Tags: tags.md
 
 plugins:
   - search:
       lang: en
+  - tags:
+      tags_file: tags.md
   - blog:
       categories: true 
       categories_name: Categories
@@ -54,13 +60,25 @@ plugins:
         - Networking
         - Setup
         - Public Cloud
+  - rss:
+      match_path: blog/posts/.* 
+      date_from_meta:
+        as_creation: date
+      categories:
+        - categories
+        - tags 
 
 extra:
   social:
-    - icon: fontawesome/brands/github-alt
-      link: https://github.com/liftconfig
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/in/timhowlinson
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/liftconfig
+    - icon: fontawesome/solid/envelope
+      link: mailto:tim.howlinson@gmail.com
+    - icon: fontawesome/solid/dumbbell
+      link: https://www.openpowerlifting.org/u/timhowlinson
+  generator: false
 
 markdown_extensions:
   - pymdownx.highlight:

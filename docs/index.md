@@ -1,30 +1,15 @@
-# Homepage
+---
+hide:
+  - navigation
+  - toc
+---
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# liftconfig
 
-## Code Annotation Examples
+- test text
 
-### Codeblocks
+<p align="center">
+  <img src="assets/images/timh-bw.png" />
+</p>
 
-Some `code` goes here. :heart: :smile:
-
-### Plain codeblock
-
-A plain codeblock:
-
-```
-Some code here
-def myfunction()
-//some comment
-```
-
-### Python code
-
-Some `py` code
-
-```py title="python code.py" linenums="1" hl_lines="1 3"
-import tensorflow as tf
-//a comment
-def whatever()
-```
-:smile:
+[:fontawesome-solid-envelope:](mailto:tim.howlinson@gmail.com)
