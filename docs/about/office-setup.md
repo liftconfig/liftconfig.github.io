@@ -1,6 +1,6 @@
 # Office Setup
 
-Since working from home I've been refining my office setup with an emphasis on ergonomics. Below is a breakdown of the equipment I'm currently using.
+Since working from home I've been refining my office setup with an emphasis on ergonomics. I'm a big believer in investing high quality tools to increase efficiency and make long sessions working and studying more enjoyable. Below is a breakdown of the equipment I'm currently using.
 
 ![Office Setup 1](../assets/images/office-setup1.jpg)
 ![Office Setup 2](../assets/images/office-setup2.jpg)
@@ -21,14 +21,14 @@ I spent a long time researching monitors before settling on the ASD. I was consi
 4. Integrated speakers, webcam, and 4 port dock. The speakers are great considering they are built into the monitor. The webcam not so much, but still fine for online meetings.
 5. Apple support is second to none. I've heard nightmare stories about trying to get support for faulty monitors from Samsung, LG etc.
 
-Before the ASD my monitor setup consisted of 2x 4K 28" Samsung monitors + MBP display. The reduction in screen real estate is a downside but I have found less neck strain without the 28" side monitor and the ASD display quality is far superior. I have been using an iPad with sidecar for some additional screen real estate. 
+Before the ASD my monitor setup consisted of 2x 4K 28" Samsung monitors + MBP display. The reduction in screen real estate is a downside but I have found less neck strain without the 28" side monitor and the ASD display quality is far superior. I have been using an iPad with sidecar for some additional screen real estate. I would consider upgrading to a 32" 6K display if a reasonable priced option becomes available. 
 
-I've also stuck a [LED light strip](https://www.amazon.com.au/PAUTIX-Dimmable-Backlight-Flexible-Lighting/dp/B0B1J57XS9?th=1) to the back of the ASD to provide back lighting. This provides excellent relief from eye strain during long sessions. I would recommend an adjustable LED strip so that you can dim the back lights while using at night.
+I've stuck a [LED light strip](https://www.amazon.com.au/PAUTIX-Dimmable-Backlight-Flexible-Lighting/dp/B0B1J57XS9?th=1) to the back of the ASD to provide back lighting. This provides excellent relief from eye strain during long sessions. I would recommend an adjustable LED strip as it allows you to dim the lights while working into the later hours.
 
 
 ### Tablet: iPad 10.9"
 
-As mentioned above, this is used with sidecar for extra screen real estate. Usually I'll just keep Teams or Outlook open on the iPad. Being able to disconnect it at the end of the day and use it as a regular tablet is a big benefit. I've found it's an invaluable tool for studying on the go (PDFs, Notion, Udemy etc). Also, although I'm not a huge fan of Safari I've found the synced tab groups to be one of it's strongest features allowing me to have the same set of tabs open and synced across the laptop, tablet, and phone. I'll be looking to upgrade to a 12.9" when the 2024 models are available.
+As mentioned above, this is used with sidecar for extra screen real estate. Usually I'll just keep Teams or Outlook open on the iPad. Being able to disconnect it at the end of the day and use it as a regular tablet is also a big benefit. I've found it's an invaluable tool for studying on the go (PDFs, Notion, Udemy etc). Also worth noting is that although I'm not a huge fan of Safari I've found the synced tab groups to be one of it's strongest features allowing me to have the same set of tabs open and synced across the laptop, tablet, and phone. I'll likely be looking to upgrade to a 12.9" when the 2024 models are available.
 
 ### Headphones: Airpod Pros
 
@@ -51,5 +51,10 @@ Due to my HOTAS style keyboard/chair setup I either needed to use a trackpad or 
 
 This is the remastered edition in size C with the aftermarket Atlas headrest and rollerblade wheels. Aerons are a gold standard in the ergonomic chair world due to the level of customisation available when setting them up. I found the post by one of the HM product managers in to the chair, but typically it's used as a guide so I can feel where my head/neck should be when in the more task based position.his [Reddit thread](https://www.reddit.com/r/Ergonomics/comments/q6xmju/ive_been_having_a_lot_of_neck_and_back_pain_im/) to be the most useful explanation of how to properly set it up. I typically use the chair with the tilt adjuster unlocked (for that floating feeling) in a 90 degree upright task based position. The only time I use the headrest to support my head is on the odd occasion I'm leaning back in the chair, the rest of the time I use it as a guide to feel where my head and neck should be in the more task based position.
 
-### Mounting: Brateck Dual Monitor Wall Mounted Gas Spring Monitor Arm 17"-32" + VESA Laptop tray holder 
+Mention HOTAS mounts.
+
+### Mounting: Dual Monitor Wall Mount
+
+Brateck Dual Monitor Wall Mounted Gas Spring Monitor Arm 17"-32" + VESA Laptop tray holder 
+
 https://www.ebay.com.au/itm/174574651488
