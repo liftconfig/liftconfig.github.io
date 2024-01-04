@@ -1,6 +1,6 @@
 # Office Setup
 
-Since working from home I've been refining my office setup with an emphasis on ergonomics. I'm a big believer in investing high quality tools to increase efficiency and make long sessions working and studying more enjoyable. Below is a breakdown of the equipment I'm currently using.
+Since working from home I've been refining my office setup with an emphasis on ergonomics. I'm a big believer in investing in high quality tools to increase efficiency and make long sessions working and studying more enjoyable. Below is a breakdown of the equipment I'm currently using.
 
 ![Office Setup 1](../assets/images/office-setup1.jpg)
 ![Office Setup 2](../assets/images/office-setup2.jpg)
@@ -32,19 +32,19 @@ As mentioned above, this is used with sidecar for extra screen real estate. Usua
 
 ### Headphones: Airpod Pros
 
-I've been using these since they were released back in 2019. Active noise cancellation is a must when working from home or a busy office. The battery life, sound quality, and portability make these my go to headphones for both work and study.
+I've been using these since they were released in 2019. Active noise cancellation is a must when working from home or a busy office. The battery life, sound quality, and portability make these my go to headphones for both work and study.
 
 ### Keyboard: Dygma Raise
 
 I first stumbled across the Raise when researching ergonomic keyboards. Split keyboards allow the wrists and shoulders to be in a more natural and neutral position which is particularly important for a those with a large shoulder width. I use the raise for the following reasons:
-   1. It retains a standard keyboard layout. I didn't want the pain of switching between something like the moonlander and a regular keyboard.
+   1. It retains a standard keyboard layout. I didn't want the pain of switching between something more custom like the moonlander and a regular keyboard.
    2. It has great software for customising keys, layers, and macros.
-   3. A OEM Tenting kit for additional ergonomics
-   4. Hot swappable mechanical switches. I originally ordered the Raise with Kailh Silent Brown Switches. They were good but I've found my preference is for a silent tactile switch. I'm currently using the Outemu Cream yellow switches which is my favourite so far.
+   3. OEM Tenting kit available for additional ergonomics
+   4. Hot swappable mechanical switches. I originally ordered the Raise with Kailh Silent Brown Switches. They were good but I've found my preference is for a silent tactile switch. I'm currently using the Outemu Cream yellow switches which is my favourite switch so far.
 
 ### Trackball: Ploopy Classic
 
-Due to my HOTAS style keyboard/chair setup I either needed to use a trackpad or trackball. I did try out the magic trackpad initially but found it inefficent and slow for a lot of mouse heavy tasks. When researching trackballs, I found the Ploopy had some excellent reviews for both it's build quality and ergonomics. The design is essentially an upgraded replica of the Microsof Trackball Explorer. This is my first trackball and I'm a convert, now using it both at home and in the office. I will say on MacOS SteerMouse is a must when using the Ploopy as it allows you to customise everything about the device, as well as per app behaviour and macros. Autoscroll is also a gamechanger as enables 2D scrolling using the trackball when a button is held down. Steermouse will allow you to adjust the autoscroll scrolling speed independent of the standard mouse movements.
+Due to my HOTAS style keyboard/chair setup I either needed to use a trackpad or trackball. I did initially test out the magic trackpad but found it inefficent and slow for a lot of mouse heavy tasks. When researching trackballs, I found the Ploopy had some excellent reviews for both it's build quality and ergonomics. The design is essentially an upgraded replica of the Microsof Trackball Explorer. This is my first trackball and I'm a convert, now using it both at home and in the office. I will say on MacOS SteerMouse is a must when using a tracbkall as it allows you to customise everything about the device, as well as per app behaviour and macros. Autoscroll is also a gamechanger as enables 2D scrolling using the trackball when a button is held down. Steermouse will allow you to adjust the autoscroll scrolling speed independent of the standard mouse movements.
 
 
 ### Chair: Hermon Miller Aeron
