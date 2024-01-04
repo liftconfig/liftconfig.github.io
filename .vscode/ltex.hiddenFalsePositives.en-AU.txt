@@ -1,0 +1,1 @@
+{"rule":"COMMA_COMPOUND_SENTENCE","sentence":"^\\QThe only time I use the headrest to support my head is on the odd occasion I'm leaning back into the chair, but typically it's used as a guide so I can feel where my head/neck should be when in the task based position.\\E$"}
