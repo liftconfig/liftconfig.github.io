@@ -29,7 +29,7 @@ On the rear of the ASD I've added a [LED light strip](https://www.amazon.com.au/
 
 As mentioned above, this is used with sidecar for extra screen real estate. Usually I'll keep Teams or Outlook open on the iPad. Being able to disconnect it at the end of the day and use it as a regular tablet is also a big benefit. I've found it's an invaluable tool for studying on the go (PDFs, Notion, Udemy etc). I'll likely be looking to upgrade to a 12.9" when the 2024 models are available.
 
-> As a side note: I'm not a fan of Safari, but I've found synced tab groups to be very useful to maintain tab consistency across the laptop, tablet, and phone. The tab sync implementation I've seen on other browsers don't seem to be as good at maintaining open tabs or as quick to update tab state.
+> As a side note: I'm not a fan of Safari, but I've found synced tab groups to be very useful to maintain tab consistency across the laptop, tablet, and phone. The tab sync implementation I've seen on other browsers doesn't seem to be as good at maintaining open tabs or as quick to update tab state.
 
 ### Headphones: AirPods Pro
 
@@ -39,7 +39,7 @@ I've been using these since they were released in 2019. Active noise cancellatio
 
 I first stumbled across the Raise when researching ergonomic keyboards. Split keyboards allow the wrists and shoulders to be in a more natural and neutral position. I use the raise for the following reasons:
 
-1. It uses a standard keyboard layout. I didn't want the pain of switching between something more custom like the Moonlander and a regular keyboard.
+1. It uses a standard keyboard layout. I didn't want the pain of switching between something more custom like the ZSA Moonlander and a regular keyboard.
 2. It has great software for customising keys, layers, and macros.
 3. An OEM tenting kit is available which helps with ergonomics
 4. Hot swappable mechanical switches. I originally ordered the Raise with Kailh Silent Browns. They weren't bad, but I've found my preference is for a silent tactile switch. I'm currently using [Outemu Cream yellows](https://www.aliexpress.com/item/1005004669940336.html) which is my favourite switch so far.
@@ -61,8 +61,8 @@ I use the following components for the HOTAS inspired keyboard mount setup:
 
 This [Reddit thread](https://www.reddit.com/r/hotas/comments/mmmyp2/herman_miller_aeron_diy_mounts_with_quick_release/) provides the details on how to assemble.
 
-Prior to this setup I did try using an adjustable keyboard tray, but I found it didn't provide the level of customisation needed. Ergonomics need to be tailored for the individuals body type and limb proportions. Having longer arms and a relatively short torso I found my legs would be touching the underside of a traditional tray or desk, but my forearms and wrists would still have to angle upwards putting pressure on the ulnar nerve in the forearm. With a split keyboard on the above mounts I can use the keyboard in a tented position slightly lower than the Aeron's arm rests. This allows the chest to open up, the shoulders & upper back to sit against the chair back, and the arms to remain in a supinator position with forearms aligned with the wrists. In this position, the arms and wrists are floating above the keyboard with the keys directly below the fingertips. I've made many minor adjustments to the angles and heights of the monitor arms and brackets over time, but I believe it's worth thinking about when you're spending a significant portion of your working life seated at a computer.
+Prior to this setup I did try using an adjustable keyboard tray, but I found it didn't provide the level of customisation required. Ergonomics need to be tailored for the individuals body type and limb proportions. Having longer arms and a relatively short torso I found my legs would be touching the underside of a traditional tray or desk, but my forearms and wrists would still have to angle upwards putting pressure on the ulnar nerve in the forearm. With a split keyboard on the above mounts I can use the keyboard in a tented position slightly lower than the Aeron's arm rests. This allows the chest to open up, the shoulders & upper back to sit against the chair back, and the arms to remain in a supinator position with forearms aligned with the wrists. In this position, the arms and wrists are floating above the keyboard with the keys directly below the fingertips. I've made many minor adjustments to the angles and heights of the monitor arms and brackets over time, and I believe these seemingly small changes are worth thinking about when you're spending a significant portion of your working life seated at a desk.
 
 ### Monitor Mount: Brateck dual wall mount
 
-The desk is flush with the wall (it's an IKEA kitchen benchtop) so I use a Brateck dual wall mounted monitor arm (17"-32"). Installed on one of the arms is a [VESA laptop tray holder](https://www.ebay.com.au/itm/174574651488) which holds the MPB.
+The desk is flush with the wall (it's an IKEA kitchen benchtop) so I use a Brateck dual wall mounted monitor arm 17"-32". Installed on one of the arms is a [VESA laptop tray holder](https://www.ebay.com.au/itm/174574651488) which holds the MPB.
