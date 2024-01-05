@@ -50,6 +50,7 @@ nav:
   - About: 
     - About Me: about/about-me.md
     - Office Setup: about/office-setup.md
+    - Gym Setup: about/gym-setup.md
   - Tags: tags.md
 
 plugins:
