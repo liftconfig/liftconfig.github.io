@@ -37,6 +37,8 @@ theme:
   icon:
     logo: simple/googlecontaineroptimizedos
 
+dev_addr: '0.0.0.0:8000'
+
 nav:
   - Blog:
     - blog/index.md
