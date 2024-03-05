@@ -48,7 +48,7 @@ nav:
       - FortiOS: networking/fortinet.md
       - VMware NSX-T: networking/nsxt.md
     - IaC:
-      - Terraform Associate: iac/terraform.md
+      - Terraform: iac/terraform.md
   - About: 
     - About Me: about/about-me.md
     - Office Setup: about/office-setup.md
