@@ -2,8 +2,8 @@
 
 Since working from home I've been refining my office setup with an emphasis on ergonomics. I'm a believer in investing in high quality tools to increase efficiency and make long sessions working and studying more enjoyable. Below is a breakdown of the equipment I'm currently using.
 
-![Office Setup 1](../assets/images/office-setup1.jpg)
-![Office Setup 2](../assets/images/office-setup2.jpg)
+![Office Setup 1](../assets/images/about/office-setup1.jpg)
+![Office Setup 2](../assets/images/about/office-setup2.jpg)
 
 ## Equipment
 
