@@ -1,0 +1,10 @@
+.md-grid {
+  max-width: 1920px;
+}
+
+ 
+@media(min-width:97em) {
+  html {
+      font-size: 130%
+  }
+}
